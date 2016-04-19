@@ -11,8 +11,8 @@ Summary:
 3. 복습차원에서 해당 코드를 python으로 구현해본다.
 4. 모든 내용(도표, 수식, 텍스트)은 강의 내용 및 과제에서 가져왔음을 알린다.
 
-python 작업 시 참고한 자료: Numpy 와 MATLAB 비교
+python 작업 시 참고한 자료: 
 
 - [Numpy for Matlab users #1](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)
 - [NumPy for MATLAB users #2](http://mathesaurus.sourceforge.net/matlab-numpy.html)
-
+- [수식 입력](http://www.codecogs.com/eqnedit.php)
