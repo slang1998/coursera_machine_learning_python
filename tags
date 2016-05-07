@@ -1,0 +1,670 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+D_	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function val=D_(num)$/;"	f
+D_	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function val=D_(num)$/;"	f
+D_	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function val=D_(num)$/;"	f
+D_	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function val=D_(num)$/;"	f
+D_	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function val=D_(num)$/;"	f
+D_	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function val=D_(num)$/;"	f
+D_	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function val=D_(num)$/;"	f
+D_	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function val=D_(num)$/;"	f
+D_a	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function data=D_a(num,type,dim,format)$/;"	f
+D_a	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function data=D_a(num,type,dim,format)$/;"	f
+D_a	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function data=D_a(num,type,dim,format)$/;"	f
+D_a	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function data=D_a(num,type,dim,format)$/;"	f
+D_a	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function data=D_a(num,type,dim,format)$/;"	f
+D_a	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function data=D_a(num,type,dim,format)$/;"	f
+D_a	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function data=D_a(num,type,dim,format)$/;"	f
+D_a	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function data=D_a(num,type,dim,format)$/;"	f
+I_	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function val=I_(num)$/;"	f
+I_	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function val=I_(num)$/;"	f
+I_	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function val=I_(num)$/;"	f
+I_	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function val=I_(num)$/;"	f
+I_	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function val=I_(num)$/;"	f
+I_	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function val=I_(num)$/;"	f
+I_	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function val=I_(num)$/;"	f
+I_	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function val=I_(num)$/;"	f
+I_a	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function data=I_a(num,type,dim,format)$/;"	f
+I_a	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function data=I_a(num,type,dim,format)$/;"	f
+I_a	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function data=I_a(num,type,dim,format)$/;"	f
+I_a	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function data=I_a(num,type,dim,format)$/;"	f
+I_a	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function data=I_a(num,type,dim,format)$/;"	f
+I_a	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function data=I_a(num,type,dim,format)$/;"	f
+I_a	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function data=I_a(num,type,dim,format)$/;"	f
+I_a	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function data=I_a(num,type,dim,format)$/;"	f
+S_	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function val=S_(str)$/;"	f
+S_	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function val=S_(str)$/;"	f
+S_	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function val=S_(str)$/;"	f
+S_	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function val=S_(str)$/;"	f
+S_	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function val=S_(str)$/;"	f
+S_	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function val=S_(str)$/;"	f
+S_	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function val=S_(str)$/;"	f
+S_	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function val=S_(str)$/;"	f
+cell2json	machine-learning-ex1/ex1/lib/jsonlab/savejson.m	/^function txt=cell2json(name,item,level,varargin)$/;"	f
+cell2json	machine-learning-ex2/ex2/lib/jsonlab/savejson.m	/^function txt=cell2json(name,item,level,varargin)$/;"	f
+cell2json	machine-learning-ex3/ex3/lib/jsonlab/savejson.m	/^function txt=cell2json(name,item,level,varargin)$/;"	f
+cell2json	machine-learning-ex4/ex4/lib/jsonlab/savejson.m	/^function txt=cell2json(name,item,level,varargin)$/;"	f
+cell2json	machine-learning-ex5/ex5/lib/jsonlab/savejson.m	/^function txt=cell2json(name,item,level,varargin)$/;"	f
+cell2json	machine-learning-ex6/ex6/lib/jsonlab/savejson.m	/^function txt=cell2json(name,item,level,varargin)$/;"	f
+cell2json	machine-learning-ex7/ex7/lib/jsonlab/savejson.m	/^function txt=cell2json(name,item,level,varargin)$/;"	f
+cell2json	machine-learning-ex8/ex8/lib/jsonlab/savejson.m	/^function txt=cell2json(name,item,level,varargin)$/;"	f
+cell2ubjson	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function txt=cell2ubjson(name,item,level,varargin)$/;"	f
+cell2ubjson	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function txt=cell2ubjson(name,item,level,varargin)$/;"	f
+cell2ubjson	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function txt=cell2ubjson(name,item,level,varargin)$/;"	f
+cell2ubjson	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function txt=cell2ubjson(name,item,level,varargin)$/;"	f
+cell2ubjson	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function txt=cell2ubjson(name,item,level,varargin)$/;"	f
+cell2ubjson	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function txt=cell2ubjson(name,item,level,varargin)$/;"	f
+cell2ubjson	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function txt=cell2ubjson(name,item,level,varargin)$/;"	f
+cell2ubjson	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function txt=cell2ubjson(name,item,level,varargin)$/;"	f
+checkCostFunction	machine-learning-ex8/ex8/checkCostFunction.m	/^function checkCostFunction(lambda)$/;"	f
+checkNNGradients	machine-learning-ex4/ex4/checkNNGradients.m	/^function checkNNGradients(lambda)$/;"	f
+checkNNGradients	test_xnor/checkNNGradients.m	/^function checkNNGradients(lambda)$/;"	f
+checkname	machine-learning-ex1/ex1/lib/jsonlab/savejson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex2/ex2/lib/jsonlab/savejson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex3/ex3/lib/jsonlab/savejson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex4/ex4/lib/jsonlab/savejson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex5/ex5/lib/jsonlab/savejson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex6/ex6/lib/jsonlab/savejson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex7/ex7/lib/jsonlab/savejson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex8/ex8/lib/jsonlab/savejson.m	/^function newname=checkname(name,varargin)$/;"	f
+checkname	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function newname=checkname(name,varargin)$/;"	f
+cofiCostFunc	machine-learning-ex8/ex8/cofiCostFunc.m	/^function [J, grad] = cofiCostFunc(params, Y, R, num_users, num_movies, ...$/;"	f
+computeCentroids	machine-learning-ex7/ex7/computeCentroids.m	/^function centroids = computeCentroids(X, idx, K)$/;"	f
+computeCost	machine-learning-ex1/ex1/computeCost.m	/^function J = computeCost(X, y, theta)$/;"	f
+computeCostMulti	machine-learning-ex1/ex1/computeCostMulti.m	/^function J = computeCostMulti(X, y, theta)$/;"	f
+computeNumericalGradient	machine-learning-ex4/ex4/computeNumericalGradient.m	/^function numgrad = computeNumericalGradient(J, theta)$/;"	f
+computeNumericalGradient	machine-learning-ex8/ex8/computeNumericalGradient.m	/^function numgrad = computeNumericalGradient(J, theta)$/;"	f
+computeNumericalGradient	test_xnor/computeNumericalGradient.m	/^function numgrad = computeNumericalGradient(J, theta)$/;"	f
+cons	machine-learning-ex6/ex6/porterStemmer.m	/^function c = cons(i, b, k0)$/;"	f
+costFunction	machine-learning-ex2/ex2/costFunction.m	/^function [J, grad] = costFunction(theta, X, y)$/;"	f
+costFunctionReg	machine-learning-ex2/ex2/costFunctionReg.m	/^function [J, grad] = costFunctionReg(theta, X, y, lambda)$/;"	f
+cvc	machine-learning-ex6/ex6/porterStemmer.m	/^function c1 = cvc(i, b, k0)$/;"	f
+data2byte	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function bytes=data2byte(varargin)$/;"	f
+data2byte	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function bytes=data2byte(varargin)$/;"	f
+data2byte	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function bytes=data2byte(varargin)$/;"	f
+data2byte	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function bytes=data2byte(varargin)$/;"	f
+data2byte	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function bytes=data2byte(varargin)$/;"	f
+data2byte	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function bytes=data2byte(varargin)$/;"	f
+data2byte	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function bytes=data2byte(varargin)$/;"	f
+data2byte	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function bytes=data2byte(varargin)$/;"	f
+dataset3Params	machine-learning-ex6/ex6/dataset3Params.m	/^function [C, sigma] = dataset3Params(X, y, Xval, yval)$/;"	f
+debugInitializeWeights	machine-learning-ex4/ex4/debugInitializeWeights.m	/^function W = debugInitializeWeights(fan_out, fan_in)$/;"	f
+debugInitializeWeights	test_xnor/debugInitializeWeights.m	/^function W = debugInitializeWeights(fan_out, fan_in)$/;"	f
+displayData	machine-learning-ex3/ex3/displayData.m	/^function [h, display_array] = displayData(X, example_width)$/;"	f
+displayData	machine-learning-ex4/ex4/displayData.m	/^function [h, display_array] = displayData(X, example_width)$/;"	f
+displayData	machine-learning-ex7/ex7/displayData.m	/^function [h, display_array] = displayData(X, example_width)$/;"	f
+doublec	machine-learning-ex6/ex6/porterStemmer.m	/^function dc = doublec(i, b, k0)$/;"	f
+drawLine	machine-learning-ex7/ex7/drawLine.m	/^function drawLine(p1, p2, varargin)$/;"	f
+elem_info	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function [cid,len]=elem_info(type)$/;"	f
+elem_info	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function [cid,len]=elem_info(type)$/;"	f
+elem_info	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function [cid,len]=elem_info(type)$/;"	f
+elem_info	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function [cid,len]=elem_info(type)$/;"	f
+elem_info	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function [cid,len]=elem_info(type)$/;"	f
+elem_info	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function [cid,len]=elem_info(type)$/;"	f
+elem_info	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function [cid,len]=elem_info(type)$/;"	f
+elem_info	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function [cid,len]=elem_info(type)$/;"	f
+emailFeatures	machine-learning-ex6/ex6/emailFeatures.m	/^function x = emailFeatures(word_indices)$/;"	f
+ends	machine-learning-ex6/ex6/porterStemmer.m	/^function s = ends(str, b, k)$/;"	f
+error_pos	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function error_pos(msg)$/;"	f
+error_pos	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function error_pos(msg)$/;"	f
+escapejsonstring	machine-learning-ex1/ex1/lib/jsonlab/savejson.m	/^function newstr=escapejsonstring(str)$/;"	f
+escapejsonstring	machine-learning-ex2/ex2/lib/jsonlab/savejson.m	/^function newstr=escapejsonstring(str)$/;"	f
+escapejsonstring	machine-learning-ex3/ex3/lib/jsonlab/savejson.m	/^function newstr=escapejsonstring(str)$/;"	f
+escapejsonstring	machine-learning-ex4/ex4/lib/jsonlab/savejson.m	/^function newstr=escapejsonstring(str)$/;"	f
+escapejsonstring	machine-learning-ex5/ex5/lib/jsonlab/savejson.m	/^function newstr=escapejsonstring(str)$/;"	f
+escapejsonstring	machine-learning-ex6/ex6/lib/jsonlab/savejson.m	/^function newstr=escapejsonstring(str)$/;"	f
+escapejsonstring	machine-learning-ex7/ex7/lib/jsonlab/savejson.m	/^function newstr=escapejsonstring(str)$/;"	f
+escapejsonstring	machine-learning-ex8/ex8/lib/jsonlab/savejson.m	/^function newstr=escapejsonstring(str)$/;"	f
+estimateGaussian	machine-learning-ex8/ex8/estimateGaussian.m	/^function [mu sigma2] = estimateGaussian(X)$/;"	f
+featureNormalize	machine-learning-ex1/ex1/featureNormalize.m	/^function [X_norm, mu, sigma] = featureNormalize(X)$/;"	f
+featureNormalize	machine-learning-ex5/ex5/featureNormalize.m	/^function [X_norm, mu, sigma] = featureNormalize(X)$/;"	f
+featureNormalize	machine-learning-ex7/ex7/featureNormalize.m	/^function [X_norm, mu, sigma] = featureNormalize(X)$/;"	f
+findClosestCentroids	machine-learning-ex7/ex7/findClosestCentroids.m	/^function idx = findClosestCentroids(X, centroids)$/;"	f
+fmincg	machine-learning-ex3/ex3/fmincg.m	/^function [X, fX, i] = fmincg(f, X, options, P1, P2, P3, P4, P5)$/;"	f
+fmincg	machine-learning-ex4/ex4/fmincg.m	/^function [X, fX, i] = fmincg(f, X, options, P1, P2, P3, P4, P5)$/;"	f
+fmincg	machine-learning-ex5/ex5/fmincg.m	/^function [X, fX, i] = fmincg(f, X, options, P1, P2, P3, P4, P5)$/;"	f
+fmincg	machine-learning-ex8/ex8/fmincg.m	/^function [X, fX, i] = fmincg(f, X, options, P1, P2, P3, P4, P5)$/;"	f
+fmincg	test_xnor/fmincg.m	/^function [X, fX, i] = fmincg(f, X, options, P1, P2, P3, P4, P5)$/;"	f
+gaussianKernel	machine-learning-ex6/ex6/gaussianKernel.m	/^function sim = gaussianKernel(x1, x2, sigma)$/;"	f
+getVocabList	machine-learning-ex6/ex6/getVocabList.m	/^function vocabList = getVocabList()$/;"	f
+gradientDescent	machine-learning-ex1/ex1/gradientDescent.m	/^function [theta, J_history] = gradientDescent(X, y, theta, alpha, num_iters)$/;"	f
+gradientDescentMulti	machine-learning-ex1/ex1/gradientDescentMulti.m	/^function [theta, J_history] = gradientDescentMulti(X, y, theta, alpha, num_iters)$/;"	f
+isValidPartOptionIndex	machine-learning-ex1/ex1/lib/submitWithConfiguration.m	/^function isValid = isValidPartOptionIndex(partOptions, i)$/;"	f
+isValidPartOptionIndex	machine-learning-ex2/ex2/lib/submitWithConfiguration.m	/^function isValid = isValidPartOptionIndex(partOptions, i)$/;"	f
+isValidPartOptionIndex	machine-learning-ex3/ex3/lib/submitWithConfiguration.m	/^function isValid = isValidPartOptionIndex(partOptions, i)$/;"	f
+isValidPartOptionIndex	machine-learning-ex4/ex4/lib/submitWithConfiguration.m	/^function isValid = isValidPartOptionIndex(partOptions, i)$/;"	f
+isValidPartOptionIndex	machine-learning-ex5/ex5/lib/submitWithConfiguration.m	/^function isValid = isValidPartOptionIndex(partOptions, i)$/;"	f
+isValidPartOptionIndex	machine-learning-ex6/ex6/lib/submitWithConfiguration.m	/^function isValid = isValidPartOptionIndex(partOptions, i)$/;"	f
+isValidPartOptionIndex	machine-learning-ex7/ex7/lib/submitWithConfiguration.m	/^function isValid = isValidPartOptionIndex(partOptions, i)$/;"	f
+isValidPartOptionIndex	machine-learning-ex8/ex8/lib/submitWithConfiguration.m	/^function isValid = isValidPartOptionIndex(partOptions, i)$/;"	f
+jcell2array	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function newdata=jcell2array(data)$/;"	f
+jcell2array	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function newdata=jcell2array(data)$/;"	f
+jsonopt	machine-learning-ex1/ex1/lib/jsonlab/jsonopt.m	/^function val=jsonopt(key,default,varargin)$/;"	f
+jsonopt	machine-learning-ex2/ex2/lib/jsonlab/jsonopt.m	/^function val=jsonopt(key,default,varargin)$/;"	f
+jsonopt	machine-learning-ex3/ex3/lib/jsonlab/jsonopt.m	/^function val=jsonopt(key,default,varargin)$/;"	f
+jsonopt	machine-learning-ex4/ex4/lib/jsonlab/jsonopt.m	/^function val=jsonopt(key,default,varargin)$/;"	f
+jsonopt	machine-learning-ex5/ex5/lib/jsonlab/jsonopt.m	/^function val=jsonopt(key,default,varargin)$/;"	f
+jsonopt	machine-learning-ex6/ex6/lib/jsonlab/jsonopt.m	/^function val=jsonopt(key,default,varargin)$/;"	f
+jsonopt	machine-learning-ex7/ex7/lib/jsonlab/jsonopt.m	/^function val=jsonopt(key,default,varargin)$/;"	f
+jsonopt	machine-learning-ex8/ex8/lib/jsonlab/jsonopt.m	/^function val=jsonopt(key,default,varargin)$/;"	f
+jstruct2array	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function newdata=jstruct2array(data)$/;"	f
+jstruct2array	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function newdata=jstruct2array(data)$/;"	f
+kMeansInitCentroids	machine-learning-ex7/ex7/kMeansInitCentroids.m	/^function centroids = kMeansInitCentroids(X, K)$/;"	f
+linearKernel	machine-learning-ex6/ex6/linearKernel.m	/^function sim = linearKernel(x1, x2)$/;"	f
+linearRegCostFunction	machine-learning-ex5/ex5/linearRegCostFunction.m	/^function [J, grad] = linearRegCostFunction(X, y, theta, lambda)$/;"	f
+loadMovieList	machine-learning-ex8/ex8/loadMovieList.m	/^function movieList = loadMovieList()$/;"	f
+loadjson	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function data = loadjson(fname,varargin)$/;"	f
+loadjson	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function data = loadjson(fname,varargin)$/;"	f
+loadjson	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function data = loadjson(fname,varargin)$/;"	f
+loadjson	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function data = loadjson(fname,varargin)$/;"	f
+loadjson	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function data = loadjson(fname,varargin)$/;"	f
+loadjson	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function data = loadjson(fname,varargin)$/;"	f
+loadjson	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function data = loadjson(fname,varargin)$/;"	f
+loadjson	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function data = loadjson(fname,varargin)$/;"	f
+loadubjson	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function data = loadubjson(fname,varargin)$/;"	f
+loadubjson	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function data = loadubjson(fname,varargin)$/;"	f
+loadubjson	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function data = loadubjson(fname,varargin)$/;"	f
+loadubjson	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function data = loadubjson(fname,varargin)$/;"	f
+loadubjson	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function data = loadubjson(fname,varargin)$/;"	f
+loadubjson	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function data = loadubjson(fname,varargin)$/;"	f
+loadubjson	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function data = loadubjson(fname,varargin)$/;"	f
+loadubjson	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function data = loadubjson(fname,varargin)$/;"	f
+lrCostFunction	machine-learning-ex3/ex3/lrCostFunction.m	/^function [J, grad] = lrCostFunction(theta, X, y, lambda)$/;"	f
+makePartsStruct	machine-learning-ex1/ex1/lib/submitWithConfiguration.m	/^function partsStruct = makePartsStruct(conf, parts)$/;"	f
+makePartsStruct	machine-learning-ex2/ex2/lib/submitWithConfiguration.m	/^function partsStruct = makePartsStruct(conf, parts)$/;"	f
+makePartsStruct	machine-learning-ex3/ex3/lib/submitWithConfiguration.m	/^function partsStruct = makePartsStruct(conf, parts)$/;"	f
+makePartsStruct	machine-learning-ex4/ex4/lib/submitWithConfiguration.m	/^function partsStruct = makePartsStruct(conf, parts)$/;"	f
+makePartsStruct	machine-learning-ex5/ex5/lib/submitWithConfiguration.m	/^function partsStruct = makePartsStruct(conf, parts)$/;"	f
+makePartsStruct	machine-learning-ex6/ex6/lib/submitWithConfiguration.m	/^function partsStruct = makePartsStruct(conf, parts)$/;"	f
+makePartsStruct	machine-learning-ex7/ex7/lib/submitWithConfiguration.m	/^function partsStruct = makePartsStruct(conf, parts)$/;"	f
+makePartsStruct	machine-learning-ex8/ex8/lib/submitWithConfiguration.m	/^function partsStruct = makePartsStruct(conf, parts)$/;"	f
+makePostBody	machine-learning-ex1/ex1/lib/submitWithConfiguration.m	/^function body = makePostBody(conf, email, token, parts)$/;"	f
+makePostBody	machine-learning-ex2/ex2/lib/submitWithConfiguration.m	/^function body = makePostBody(conf, email, token, parts)$/;"	f
+makePostBody	machine-learning-ex3/ex3/lib/submitWithConfiguration.m	/^function body = makePostBody(conf, email, token, parts)$/;"	f
+makePostBody	machine-learning-ex4/ex4/lib/submitWithConfiguration.m	/^function body = makePostBody(conf, email, token, parts)$/;"	f
+makePostBody	machine-learning-ex5/ex5/lib/submitWithConfiguration.m	/^function body = makePostBody(conf, email, token, parts)$/;"	f
+makePostBody	machine-learning-ex6/ex6/lib/submitWithConfiguration.m	/^function body = makePostBody(conf, email, token, parts)$/;"	f
+makePostBody	machine-learning-ex7/ex7/lib/submitWithConfiguration.m	/^function body = makePostBody(conf, email, token, parts)$/;"	f
+makePostBody	machine-learning-ex8/ex8/lib/submitWithConfiguration.m	/^function body = makePostBody(conf, email, token, parts)$/;"	f
+makeValidFieldName	machine-learning-ex1/ex1/lib/makeValidFieldName.m	/^function str = makeValidFieldName(str)$/;"	f
+makeValidFieldName	machine-learning-ex2/ex2/lib/makeValidFieldName.m	/^function str = makeValidFieldName(str)$/;"	f
+makeValidFieldName	machine-learning-ex3/ex3/lib/makeValidFieldName.m	/^function str = makeValidFieldName(str)$/;"	f
+makeValidFieldName	machine-learning-ex4/ex4/lib/makeValidFieldName.m	/^function str = makeValidFieldName(str)$/;"	f
+makeValidFieldName	machine-learning-ex5/ex5/lib/makeValidFieldName.m	/^function str = makeValidFieldName(str)$/;"	f
+makeValidFieldName	machine-learning-ex6/ex6/lib/makeValidFieldName.m	/^function str = makeValidFieldName(str)$/;"	f
+makeValidFieldName	machine-learning-ex7/ex7/lib/makeValidFieldName.m	/^function str = makeValidFieldName(str)$/;"	f
+makeValidFieldName	machine-learning-ex8/ex8/lib/makeValidFieldName.m	/^function str = makeValidFieldName(str)$/;"	f
+mapFeature	machine-learning-ex2/ex2/mapFeature.m	/^function out = mapFeature(X1, X2)$/;"	f
+mat2json	machine-learning-ex1/ex1/lib/jsonlab/savejson.m	/^function txt=mat2json(name,item,level,varargin)$/;"	f
+mat2json	machine-learning-ex2/ex2/lib/jsonlab/savejson.m	/^function txt=mat2json(name,item,level,varargin)$/;"	f
+mat2json	machine-learning-ex3/ex3/lib/jsonlab/savejson.m	/^function txt=mat2json(name,item,level,varargin)$/;"	f
+mat2json	machine-learning-ex4/ex4/lib/jsonlab/savejson.m	/^function txt=mat2json(name,item,level,varargin)$/;"	f
+mat2json	machine-learning-ex5/ex5/lib/jsonlab/savejson.m	/^function txt=mat2json(name,item,level,varargin)$/;"	f
+mat2json	machine-learning-ex6/ex6/lib/jsonlab/savejson.m	/^function txt=mat2json(name,item,level,varargin)$/;"	f
+mat2json	machine-learning-ex7/ex7/lib/jsonlab/savejson.m	/^function txt=mat2json(name,item,level,varargin)$/;"	f
+mat2json	machine-learning-ex8/ex8/lib/jsonlab/savejson.m	/^function txt=mat2json(name,item,level,varargin)$/;"	f
+mat2ubjson	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function txt=mat2ubjson(name,item,level,varargin)$/;"	f
+mat2ubjson	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function txt=mat2ubjson(name,item,level,varargin)$/;"	f
+mat2ubjson	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function txt=mat2ubjson(name,item,level,varargin)$/;"	f
+mat2ubjson	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function txt=mat2ubjson(name,item,level,varargin)$/;"	f
+mat2ubjson	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function txt=mat2ubjson(name,item,level,varargin)$/;"	f
+mat2ubjson	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function txt=mat2ubjson(name,item,level,varargin)$/;"	f
+mat2ubjson	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function txt=mat2ubjson(name,item,level,varargin)$/;"	f
+mat2ubjson	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function txt=mat2ubjson(name,item,level,varargin)$/;"	f
+matching_bracket	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function [endpos, e1l, e1r, maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function [endpos e1l e1r maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function [endpos, e1l, e1r, maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function [endpos e1l e1r maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function [endpos, e1l, e1r, maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function [endpos e1l e1r maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function [endpos, e1l, e1r, maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function [endpos e1l e1r maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function [endpos, e1l, e1r, maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function [endpos e1l e1r maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function [endpos, e1l, e1r, maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function [endpos e1l e1r maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function [endpos, e1l, e1r, maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function [endpos e1l e1r maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function [endpos, e1l, e1r, maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_bracket	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function [endpos e1l e1r maxlevel] = matching_bracket(str,pos)$/;"	f
+matching_quote	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matching_quote	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function endpos = matching_quote(str,pos)$/;"	f
+matdata2json	machine-learning-ex1/ex1/lib/jsonlab/savejson.m	/^function txt=matdata2json(mat,level,varargin)$/;"	f
+matdata2json	machine-learning-ex2/ex2/lib/jsonlab/savejson.m	/^function txt=matdata2json(mat,level,varargin)$/;"	f
+matdata2json	machine-learning-ex3/ex3/lib/jsonlab/savejson.m	/^function txt=matdata2json(mat,level,varargin)$/;"	f
+matdata2json	machine-learning-ex4/ex4/lib/jsonlab/savejson.m	/^function txt=matdata2json(mat,level,varargin)$/;"	f
+matdata2json	machine-learning-ex5/ex5/lib/jsonlab/savejson.m	/^function txt=matdata2json(mat,level,varargin)$/;"	f
+matdata2json	machine-learning-ex6/ex6/lib/jsonlab/savejson.m	/^function txt=matdata2json(mat,level,varargin)$/;"	f
+matdata2json	machine-learning-ex7/ex7/lib/jsonlab/savejson.m	/^function txt=matdata2json(mat,level,varargin)$/;"	f
+matdata2json	machine-learning-ex8/ex8/lib/jsonlab/savejson.m	/^function txt=matdata2json(mat,level,varargin)$/;"	f
+matdata2ubjson	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function txt=matdata2ubjson(mat,level,varargin)$/;"	f
+matdata2ubjson	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function txt=matdata2ubjson(mat,level,varargin)$/;"	f
+matdata2ubjson	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function txt=matdata2ubjson(mat,level,varargin)$/;"	f
+matdata2ubjson	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function txt=matdata2ubjson(mat,level,varargin)$/;"	f
+matdata2ubjson	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function txt=matdata2ubjson(mat,level,varargin)$/;"	f
+matdata2ubjson	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function txt=matdata2ubjson(mat,level,varargin)$/;"	f
+matdata2ubjson	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function txt=matdata2ubjson(mat,level,varargin)$/;"	f
+matdata2ubjson	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function txt=matdata2ubjson(mat,level,varargin)$/;"	f
+measure	machine-learning-ex6/ex6/porterStemmer.m	/^function n = measure(b, k0)$/;"	f
+mergestruct	machine-learning-ex1/ex1/lib/jsonlab/mergestruct.m	/^function s=mergestruct(s1,s2)$/;"	f
+mergestruct	machine-learning-ex2/ex2/lib/jsonlab/mergestruct.m	/^function s=mergestruct(s1,s2)$/;"	f
+mergestruct	machine-learning-ex3/ex3/lib/jsonlab/mergestruct.m	/^function s=mergestruct(s1,s2)$/;"	f
+mergestruct	machine-learning-ex4/ex4/lib/jsonlab/mergestruct.m	/^function s=mergestruct(s1,s2)$/;"	f
+mergestruct	machine-learning-ex5/ex5/lib/jsonlab/mergestruct.m	/^function s=mergestruct(s1,s2)$/;"	f
+mergestruct	machine-learning-ex6/ex6/lib/jsonlab/mergestruct.m	/^function s=mergestruct(s1,s2)$/;"	f
+mergestruct	machine-learning-ex7/ex7/lib/jsonlab/mergestruct.m	/^function s=mergestruct(s1,s2)$/;"	f
+mergestruct	machine-learning-ex8/ex8/lib/jsonlab/mergestruct.m	/^function s=mergestruct(s1,s2)$/;"	f
+multivariateGaussian	machine-learning-ex8/ex8/multivariateGaussian.m	/^function p = multivariateGaussian(X, mu, Sigma2)$/;"	f
+next_char	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function c = next_char$/;"	f
+next_char	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function c = next_char$/;"	f
+nnCostFunction	machine-learning-ex4/ex4/nnCostFunction.m	/^function [J grad] = nnCostFunction(nn_params, ...$/;"	f
+nnCostFunction	test_xnor/nnCostFunction.m	/^function [J grad] = nnCostFunction(nn_params, ...$/;"	f
+normalEqn	machine-learning-ex1/ex1/normalEqn.m	/^function [theta] = normalEqn(X, y)$/;"	f
+normalizeRatings	machine-learning-ex8/ex8/normalizeRatings.m	/^function [Ynorm, Ymean] = normalizeRatings(Y, R)$/;"	f
+obj2json	machine-learning-ex1/ex1/lib/jsonlab/savejson.m	/^function txt=obj2json(name,item,level,varargin)$/;"	f
+obj2json	machine-learning-ex2/ex2/lib/jsonlab/savejson.m	/^function txt=obj2json(name,item,level,varargin)$/;"	f
+obj2json	machine-learning-ex3/ex3/lib/jsonlab/savejson.m	/^function txt=obj2json(name,item,level,varargin)$/;"	f
+obj2json	machine-learning-ex4/ex4/lib/jsonlab/savejson.m	/^function txt=obj2json(name,item,level,varargin)$/;"	f
+obj2json	machine-learning-ex5/ex5/lib/jsonlab/savejson.m	/^function txt=obj2json(name,item,level,varargin)$/;"	f
+obj2json	machine-learning-ex6/ex6/lib/jsonlab/savejson.m	/^function txt=obj2json(name,item,level,varargin)$/;"	f
+obj2json	machine-learning-ex7/ex7/lib/jsonlab/savejson.m	/^function txt=obj2json(name,item,level,varargin)$/;"	f
+obj2json	machine-learning-ex8/ex8/lib/jsonlab/savejson.m	/^function txt=obj2json(name,item,level,varargin)$/;"	f
+obj2ubjson	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function txt=obj2ubjson(name,item,level,varargin)$/;"	f
+obj2ubjson	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function txt=obj2ubjson(name,item,level,varargin)$/;"	f
+obj2ubjson	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function txt=obj2ubjson(name,item,level,varargin)$/;"	f
+obj2ubjson	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function txt=obj2ubjson(name,item,level,varargin)$/;"	f
+obj2ubjson	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function txt=obj2ubjson(name,item,level,varargin)$/;"	f
+obj2ubjson	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function txt=obj2ubjson(name,item,level,varargin)$/;"	f
+obj2ubjson	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function txt=obj2ubjson(name,item,level,varargin)$/;"	f
+obj2ubjson	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function txt=obj2ubjson(name,item,level,varargin)$/;"	f
+oneVsAll	machine-learning-ex3/ex3/oneVsAll.m	/^function [all_theta] = oneVsAll(X, y, num_labels, lambda)$/;"	f
+output	machine-learning-ex1/ex1/submit.m	/^function out = output(partId)$/;"	f
+output	machine-learning-ex2/ex2/submit.m	/^function out = output(partId, auxstring)$/;"	f
+output	machine-learning-ex3/ex3/submit.m	/^function out = output(partId, auxdata)$/;"	f
+output	machine-learning-ex4/ex4/submit.m	/^function out = output(partId, auxstring)$/;"	f
+output	machine-learning-ex5/ex5/submit.m	/^function out = output(partId, auxstring)$/;"	f
+output	machine-learning-ex6/ex6/submit.m	/^function out = output(partId, auxstring)$/;"	f
+output	machine-learning-ex7/ex7/submit.m	/^function out = output(partId, auxstring)$/;"	f
+output	machine-learning-ex8/ex8/submit.m	/^function out = output(partId, auxstring)$/;"	f
+parseStr	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function str = parseStr(varargin)$/;"	f
+parseStr	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function str = parseStr(varargin)$/;"	f
+parse_array	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_array	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function object = parse_array(varargin) % JSON array is written in row-major order$/;"	f
+parse_block	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function [data adv]=parse_block(type,count,varargin)$/;"	f
+parse_block	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function [data adv]=parse_block(type,count,varargin)$/;"	f
+parse_block	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function [data adv]=parse_block(type,count,varargin)$/;"	f
+parse_block	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function [data adv]=parse_block(type,count,varargin)$/;"	f
+parse_block	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function [data adv]=parse_block(type,count,varargin)$/;"	f
+parse_block	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function [data adv]=parse_block(type,count,varargin)$/;"	f
+parse_block	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function [data adv]=parse_block(type,count,varargin)$/;"	f
+parse_block	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function [data adv]=parse_block(type,count,varargin)$/;"	f
+parse_char	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function parse_char(c)$/;"	f
+parse_char	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function parse_char(c)$/;"	f
+parse_collection	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function newdata=parse_collection(id,data,obj)$/;"	f
+parse_collection	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function newdata=parse_collection(id,data,obj)$/;"	f
+parse_collection	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function newdata=parse_collection(id,data,obj)$/;"	f
+parse_collection	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function newdata=parse_collection(id,data,obj)$/;"	f
+parse_collection	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function newdata=parse_collection(id,data,obj)$/;"	f
+parse_collection	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function newdata=parse_collection(id,data,obj)$/;"	f
+parse_collection	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function newdata=parse_collection(id,data,obj)$/;"	f
+parse_collection	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function newdata=parse_collection(id,data,obj)$/;"	f
+parse_number	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_number	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function num = parse_number(varargin)$/;"	f
+parse_object	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_object	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function object = parse_object(varargin)$/;"	f
+parse_value	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function val = parse_value(varargin)$/;"	f
+parse_value	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function val = parse_value(varargin)$/;"	f
+parts	machine-learning-ex1/ex1/lib/submitWithConfiguration.m	/^function [parts] = parts(conf)$/;"	f
+parts	machine-learning-ex2/ex2/lib/submitWithConfiguration.m	/^function [parts] = parts(conf)$/;"	f
+parts	machine-learning-ex3/ex3/lib/submitWithConfiguration.m	/^function [parts] = parts(conf)$/;"	f
+parts	machine-learning-ex4/ex4/lib/submitWithConfiguration.m	/^function [parts] = parts(conf)$/;"	f
+parts	machine-learning-ex5/ex5/lib/submitWithConfiguration.m	/^function [parts] = parts(conf)$/;"	f
+parts	machine-learning-ex6/ex6/lib/submitWithConfiguration.m	/^function [parts] = parts(conf)$/;"	f
+parts	machine-learning-ex7/ex7/lib/submitWithConfiguration.m	/^function [parts] = parts(conf)$/;"	f
+parts	machine-learning-ex8/ex8/lib/submitWithConfiguration.m	/^function [parts] = parts(conf)$/;"	f
+pca	machine-learning-ex7/ex7/pca.m	/^function [U, S] = pca(X)$/;"	f
+plotData	machine-learning-ex1/ex1/plotData.m	/^function plotData(x, y)$/;"	f
+plotData	machine-learning-ex2/ex2/plotData.m	/^function plotData(X, y)$/;"	f
+plotData	machine-learning-ex6/ex6/plotData.m	/^function plotData(X, y)$/;"	f
+plotDataPoints	machine-learning-ex7/ex7/plotDataPoints.m	/^function plotDataPoints(X, idx, K)$/;"	f
+plotDecisionBoundary	machine-learning-ex2/ex2/plotDecisionBoundary.m	/^function plotDecisionBoundary(theta, X, y)$/;"	f
+plotFit	machine-learning-ex5/ex5/plotFit.m	/^function plotFit(min_x, max_x, mu, sigma, theta, p)$/;"	f
+plotProgresskMeans	machine-learning-ex7/ex7/plotProgresskMeans.m	/^function plotProgresskMeans(X, centroids, previous, idx, K, i)$/;"	f
+polyFeatures	machine-learning-ex5/ex5/polyFeatures.m	/^function [X_poly] = polyFeatures(X, p)$/;"	f
+porterStemmer	machine-learning-ex6/ex6/porterStemmer.m	/^function stem = porterStemmer(inString)$/;"	f
+predict	machine-learning-ex2/ex2/predict.m	/^function p = predict(theta, X)$/;"	f
+predict	machine-learning-ex3/ex3/predict.m	/^function p = predict(Theta1, Theta2, X)$/;"	f
+predict	machine-learning-ex4/ex4/predict.m	/^function p = predict(Theta1, Theta2, X)$/;"	f
+predict	test_xnor/predict.m	/^function p = predict(Theta1, Theta2, X)$/;"	f
+predictOneVsAll	machine-learning-ex3/ex3/predictOneVsAll.m	/^function p = predictOneVsAll(all_theta, X)$/;"	f
+processEmail	machine-learning-ex6/ex6/processEmail.m	/^function word_indices = processEmail(email_contents)$/;"	f
+projectData	machine-learning-ex7/ex7/projectData.m	/^function Z = projectData(X, U, K)$/;"	f
+promptToken	machine-learning-ex1/ex1/lib/submitWithConfiguration.m	/^function [email token] = promptToken(email, existingToken, tokenFile)$/;"	f
+promptToken	machine-learning-ex2/ex2/lib/submitWithConfiguration.m	/^function [email token] = promptToken(email, existingToken, tokenFile)$/;"	f
+promptToken	machine-learning-ex3/ex3/lib/submitWithConfiguration.m	/^function [email token] = promptToken(email, existingToken, tokenFile)$/;"	f
+promptToken	machine-learning-ex4/ex4/lib/submitWithConfiguration.m	/^function [email token] = promptToken(email, existingToken, tokenFile)$/;"	f
+promptToken	machine-learning-ex5/ex5/lib/submitWithConfiguration.m	/^function [email token] = promptToken(email, existingToken, tokenFile)$/;"	f
+promptToken	machine-learning-ex6/ex6/lib/submitWithConfiguration.m	/^function [email token] = promptToken(email, existingToken, tokenFile)$/;"	f
+promptToken	machine-learning-ex7/ex7/lib/submitWithConfiguration.m	/^function [email token] = promptToken(email, existingToken, tokenFile)$/;"	f
+promptToken	machine-learning-ex8/ex8/lib/submitWithConfiguration.m	/^function [email token] = promptToken(email, existingToken, tokenFile)$/;"	f
+randInitializeWeights	machine-learning-ex4/ex4/randInitializeWeights.m	/^function W = randInitializeWeights(L_in, L_out)$/;"	f
+randInitializeWeights	test_xnor/randInitializeWeights.m	/^function W = randInitializeWeights(L_in, L_out)$/;"	f
+readFile	machine-learning-ex6/ex6/readFile.m	/^function file_contents = readFile(filename)$/;"	f
+recoverData	machine-learning-ex7/ex7/recoverData.m	/^function X_rec = recoverData(Z, U, K)$/;"	f
+rs	machine-learning-ex6/ex6/porterStemmer.m	/^function r = rs(str, b, k, k0)$/;"	f
+runkMeans	machine-learning-ex7/ex7/runkMeans.m	/^function [centroids, idx] = runkMeans(X, initial_centroids, ...$/;"	f
+savejson	machine-learning-ex1/ex1/lib/jsonlab/savejson.m	/^function json=savejson(rootname,obj,varargin)$/;"	f
+savejson	machine-learning-ex2/ex2/lib/jsonlab/savejson.m	/^function json=savejson(rootname,obj,varargin)$/;"	f
+savejson	machine-learning-ex3/ex3/lib/jsonlab/savejson.m	/^function json=savejson(rootname,obj,varargin)$/;"	f
+savejson	machine-learning-ex4/ex4/lib/jsonlab/savejson.m	/^function json=savejson(rootname,obj,varargin)$/;"	f
+savejson	machine-learning-ex5/ex5/lib/jsonlab/savejson.m	/^function json=savejson(rootname,obj,varargin)$/;"	f
+savejson	machine-learning-ex6/ex6/lib/jsonlab/savejson.m	/^function json=savejson(rootname,obj,varargin)$/;"	f
+savejson	machine-learning-ex7/ex7/lib/jsonlab/savejson.m	/^function json=savejson(rootname,obj,varargin)$/;"	f
+savejson	machine-learning-ex8/ex8/lib/jsonlab/savejson.m	/^function json=savejson(rootname,obj,varargin)$/;"	f
+saveubjson	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function json=saveubjson(rootname,obj,varargin)$/;"	f
+saveubjson	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function json=saveubjson(rootname,obj,varargin)$/;"	f
+saveubjson	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function json=saveubjson(rootname,obj,varargin)$/;"	f
+saveubjson	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function json=saveubjson(rootname,obj,varargin)$/;"	f
+saveubjson	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function json=saveubjson(rootname,obj,varargin)$/;"	f
+saveubjson	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function json=saveubjson(rootname,obj,varargin)$/;"	f
+saveubjson	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function json=saveubjson(rootname,obj,varargin)$/;"	f
+saveubjson	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function json=saveubjson(rootname,obj,varargin)$/;"	f
+selectThreshold	machine-learning-ex8/ex8/selectThreshold.m	/^function [bestEpsilon bestF1] = selectThreshold(yval, pval)$/;"	f
+setto	machine-learning-ex6/ex6/porterStemmer.m	/^function so = setto(s, b, k)$/;"	f
+showFeedback	machine-learning-ex1/ex1/lib/submitWithConfiguration.m	/^function showFeedback(parts, response)$/;"	f
+showFeedback	machine-learning-ex2/ex2/lib/submitWithConfiguration.m	/^function showFeedback(parts, response)$/;"	f
+showFeedback	machine-learning-ex3/ex3/lib/submitWithConfiguration.m	/^function showFeedback(parts, response)$/;"	f
+showFeedback	machine-learning-ex4/ex4/lib/submitWithConfiguration.m	/^function showFeedback(parts, response)$/;"	f
+showFeedback	machine-learning-ex5/ex5/lib/submitWithConfiguration.m	/^function showFeedback(parts, response)$/;"	f
+showFeedback	machine-learning-ex6/ex6/lib/submitWithConfiguration.m	/^function showFeedback(parts, response)$/;"	f
+showFeedback	machine-learning-ex7/ex7/lib/submitWithConfiguration.m	/^function showFeedback(parts, response)$/;"	f
+showFeedback	machine-learning-ex8/ex8/lib/submitWithConfiguration.m	/^function showFeedback(parts, response)$/;"	f
+sigmoid	machine-learning-ex2/ex2/sigmoid.m	/^function g = sigmoid(z)$/;"	f
+sigmoid	machine-learning-ex3/ex3/sigmoid.m	/^function g = sigmoid(z)$/;"	f
+sigmoid	machine-learning-ex4/ex4/sigmoid.m	/^function g = sigmoid(z)$/;"	f
+sigmoid	test_xnor/sigmoid.m	/^function g = sigmoid(z)$/;"	f
+sigmoidGradient	machine-learning-ex4/ex4/sigmoidGradient.m	/^function g = sigmoidGradient(z)$/;"	f
+sigmoidGradient	test_xnor/sigmoidGradient.m	/^function g = sigmoidGradient(z)$/;"	f
+skip_whitespace	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function skip_whitespace$/;"	f
+skip_whitespace	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function skip_whitespace$/;"	f
+step1ab	machine-learning-ex6/ex6/porterStemmer.m	/^function s1ab = step1ab(b, k, k0)$/;"	f
+step1c	machine-learning-ex6/ex6/porterStemmer.m	/^function s1c = step1c(b, k, k0)$/;"	f
+step2	machine-learning-ex6/ex6/porterStemmer.m	/^function s2 = step2(b, k, k0)$/;"	f
+step3	machine-learning-ex6/ex6/porterStemmer.m	/^function s3 = step3(b, k, k0)$/;"	f
+step4	machine-learning-ex6/ex6/porterStemmer.m	/^function s4 = step4(b, k, k0)$/;"	f
+step5	machine-learning-ex6/ex6/porterStemmer.m	/^function s5 = step5(b, k, k0)$/;"	f
+str2json	machine-learning-ex1/ex1/lib/jsonlab/savejson.m	/^function txt=str2json(name,item,level,varargin)$/;"	f
+str2json	machine-learning-ex2/ex2/lib/jsonlab/savejson.m	/^function txt=str2json(name,item,level,varargin)$/;"	f
+str2json	machine-learning-ex3/ex3/lib/jsonlab/savejson.m	/^function txt=str2json(name,item,level,varargin)$/;"	f
+str2json	machine-learning-ex4/ex4/lib/jsonlab/savejson.m	/^function txt=str2json(name,item,level,varargin)$/;"	f
+str2json	machine-learning-ex5/ex5/lib/jsonlab/savejson.m	/^function txt=str2json(name,item,level,varargin)$/;"	f
+str2json	machine-learning-ex6/ex6/lib/jsonlab/savejson.m	/^function txt=str2json(name,item,level,varargin)$/;"	f
+str2json	machine-learning-ex7/ex7/lib/jsonlab/savejson.m	/^function txt=str2json(name,item,level,varargin)$/;"	f
+str2json	machine-learning-ex8/ex8/lib/jsonlab/savejson.m	/^function txt=str2json(name,item,level,varargin)$/;"	f
+str2ubjson	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function txt=str2ubjson(name,item,level,varargin)$/;"	f
+str2ubjson	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function txt=str2ubjson(name,item,level,varargin)$/;"	f
+str2ubjson	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function txt=str2ubjson(name,item,level,varargin)$/;"	f
+str2ubjson	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function txt=str2ubjson(name,item,level,varargin)$/;"	f
+str2ubjson	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function txt=str2ubjson(name,item,level,varargin)$/;"	f
+str2ubjson	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function txt=str2ubjson(name,item,level,varargin)$/;"	f
+str2ubjson	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function txt=str2ubjson(name,item,level,varargin)$/;"	f
+str2ubjson	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function txt=str2ubjson(name,item,level,varargin)$/;"	f
+struct2json	machine-learning-ex1/ex1/lib/jsonlab/savejson.m	/^function txt=struct2json(name,item,level,varargin)$/;"	f
+struct2json	machine-learning-ex2/ex2/lib/jsonlab/savejson.m	/^function txt=struct2json(name,item,level,varargin)$/;"	f
+struct2json	machine-learning-ex3/ex3/lib/jsonlab/savejson.m	/^function txt=struct2json(name,item,level,varargin)$/;"	f
+struct2json	machine-learning-ex4/ex4/lib/jsonlab/savejson.m	/^function txt=struct2json(name,item,level,varargin)$/;"	f
+struct2json	machine-learning-ex5/ex5/lib/jsonlab/savejson.m	/^function txt=struct2json(name,item,level,varargin)$/;"	f
+struct2json	machine-learning-ex6/ex6/lib/jsonlab/savejson.m	/^function txt=struct2json(name,item,level,varargin)$/;"	f
+struct2json	machine-learning-ex7/ex7/lib/jsonlab/savejson.m	/^function txt=struct2json(name,item,level,varargin)$/;"	f
+struct2json	machine-learning-ex8/ex8/lib/jsonlab/savejson.m	/^function txt=struct2json(name,item,level,varargin)$/;"	f
+struct2ubjson	machine-learning-ex1/ex1/lib/jsonlab/saveubjson.m	/^function txt=struct2ubjson(name,item,level,varargin)$/;"	f
+struct2ubjson	machine-learning-ex2/ex2/lib/jsonlab/saveubjson.m	/^function txt=struct2ubjson(name,item,level,varargin)$/;"	f
+struct2ubjson	machine-learning-ex3/ex3/lib/jsonlab/saveubjson.m	/^function txt=struct2ubjson(name,item,level,varargin)$/;"	f
+struct2ubjson	machine-learning-ex4/ex4/lib/jsonlab/saveubjson.m	/^function txt=struct2ubjson(name,item,level,varargin)$/;"	f
+struct2ubjson	machine-learning-ex5/ex5/lib/jsonlab/saveubjson.m	/^function txt=struct2ubjson(name,item,level,varargin)$/;"	f
+struct2ubjson	machine-learning-ex6/ex6/lib/jsonlab/saveubjson.m	/^function txt=struct2ubjson(name,item,level,varargin)$/;"	f
+struct2ubjson	machine-learning-ex7/ex7/lib/jsonlab/saveubjson.m	/^function txt=struct2ubjson(name,item,level,varargin)$/;"	f
+struct2ubjson	machine-learning-ex8/ex8/lib/jsonlab/saveubjson.m	/^function txt=struct2ubjson(name,item,level,varargin)$/;"	f
+submissionUrl	machine-learning-ex1/ex1/lib/submitWithConfiguration.m	/^function submissionUrl = submissionUrl()$/;"	f
+submissionUrl	machine-learning-ex2/ex2/lib/submitWithConfiguration.m	/^function submissionUrl = submissionUrl()$/;"	f
+submissionUrl	machine-learning-ex3/ex3/lib/submitWithConfiguration.m	/^function submissionUrl = submissionUrl()$/;"	f
+submissionUrl	machine-learning-ex4/ex4/lib/submitWithConfiguration.m	/^function submissionUrl = submissionUrl()$/;"	f
+submissionUrl	machine-learning-ex5/ex5/lib/submitWithConfiguration.m	/^function submissionUrl = submissionUrl()$/;"	f
+submissionUrl	machine-learning-ex6/ex6/lib/submitWithConfiguration.m	/^function submissionUrl = submissionUrl()$/;"	f
+submissionUrl	machine-learning-ex7/ex7/lib/submitWithConfiguration.m	/^function submissionUrl = submissionUrl()$/;"	f
+submissionUrl	machine-learning-ex8/ex8/lib/submitWithConfiguration.m	/^function submissionUrl = submissionUrl()$/;"	f
+submit	machine-learning-ex1/ex1/submit.m	/^function submit()$/;"	f
+submit	machine-learning-ex2/ex2/submit.m	/^function submit()$/;"	f
+submit	machine-learning-ex3/ex3/submit.m	/^function submit()$/;"	f
+submit	machine-learning-ex4/ex4/submit.m	/^function submit()$/;"	f
+submit	machine-learning-ex5/ex5/submit.m	/^function submit()$/;"	f
+submit	machine-learning-ex6/ex6/submit.m	/^function submit()$/;"	f
+submit	machine-learning-ex7/ex7/submit.m	/^function submit()$/;"	f
+submit	machine-learning-ex8/ex8/submit.m	/^function submit()$/;"	f
+submitParts	machine-learning-ex1/ex1/lib/submitWithConfiguration.m	/^function response = submitParts(conf, email, token, parts)$/;"	f
+submitParts	machine-learning-ex2/ex2/lib/submitWithConfiguration.m	/^function response = submitParts(conf, email, token, parts)$/;"	f
+submitParts	machine-learning-ex3/ex3/lib/submitWithConfiguration.m	/^function response = submitParts(conf, email, token, parts)$/;"	f
+submitParts	machine-learning-ex4/ex4/lib/submitWithConfiguration.m	/^function response = submitParts(conf, email, token, parts)$/;"	f
+submitParts	machine-learning-ex5/ex5/lib/submitWithConfiguration.m	/^function response = submitParts(conf, email, token, parts)$/;"	f
+submitParts	machine-learning-ex6/ex6/lib/submitWithConfiguration.m	/^function response = submitParts(conf, email, token, parts)$/;"	f
+submitParts	machine-learning-ex7/ex7/lib/submitWithConfiguration.m	/^function response = submitParts(conf, email, token, parts)$/;"	f
+submitParts	machine-learning-ex8/ex8/lib/submitWithConfiguration.m	/^function response = submitParts(conf, email, token, parts)$/;"	f
+submitWithConfiguration	machine-learning-ex1/ex1/lib/submitWithConfiguration.m	/^function submitWithConfiguration(conf)$/;"	f
+submitWithConfiguration	machine-learning-ex2/ex2/lib/submitWithConfiguration.m	/^function submitWithConfiguration(conf)$/;"	f
+submitWithConfiguration	machine-learning-ex3/ex3/lib/submitWithConfiguration.m	/^function submitWithConfiguration(conf)$/;"	f
+submitWithConfiguration	machine-learning-ex4/ex4/lib/submitWithConfiguration.m	/^function submitWithConfiguration(conf)$/;"	f
+submitWithConfiguration	machine-learning-ex5/ex5/lib/submitWithConfiguration.m	/^function submitWithConfiguration(conf)$/;"	f
+submitWithConfiguration	machine-learning-ex6/ex6/lib/submitWithConfiguration.m	/^function submitWithConfiguration(conf)$/;"	f
+submitWithConfiguration	machine-learning-ex7/ex7/lib/submitWithConfiguration.m	/^function submitWithConfiguration(conf)$/;"	f
+submitWithConfiguration	machine-learning-ex8/ex8/lib/submitWithConfiguration.m	/^function submitWithConfiguration(conf)$/;"	f
+svmPredict	machine-learning-ex6/ex6/svmPredict.m	/^function pred = svmPredict(model, X)$/;"	f
+svmTrain	machine-learning-ex6/ex6/svmTrain.m	/^function [model] = svmTrain(X, Y, C, kernelFunction, ...$/;"	f
+trainLinearReg	machine-learning-ex5/ex5/trainLinearReg.m	/^function [theta] = trainLinearReg(X, y, lambda)$/;"	f
+valid_field	machine-learning-ex1/ex1/lib/jsonlab/loadjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex1/ex1/lib/jsonlab/loadubjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex2/ex2/lib/jsonlab/loadjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex2/ex2/lib/jsonlab/loadubjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex3/ex3/lib/jsonlab/loadjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex3/ex3/lib/jsonlab/loadubjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex4/ex4/lib/jsonlab/loadjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex4/ex4/lib/jsonlab/loadubjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex5/ex5/lib/jsonlab/loadjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex5/ex5/lib/jsonlab/loadubjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex6/ex6/lib/jsonlab/loadjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex6/ex6/lib/jsonlab/loadubjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex7/ex7/lib/jsonlab/loadjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex7/ex7/lib/jsonlab/loadubjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex8/ex8/lib/jsonlab/loadjson.m	/^function str = valid_field(str)$/;"	f
+valid_field	machine-learning-ex8/ex8/lib/jsonlab/loadubjson.m	/^function str = valid_field(str)$/;"	f
+varargin2struct	machine-learning-ex1/ex1/lib/jsonlab/varargin2struct.m	/^function opt=varargin2struct(varargin)$/;"	f
+varargin2struct	machine-learning-ex2/ex2/lib/jsonlab/varargin2struct.m	/^function opt=varargin2struct(varargin)$/;"	f
+varargin2struct	machine-learning-ex3/ex3/lib/jsonlab/varargin2struct.m	/^function opt=varargin2struct(varargin)$/;"	f
+varargin2struct	machine-learning-ex4/ex4/lib/jsonlab/varargin2struct.m	/^function opt=varargin2struct(varargin)$/;"	f
+varargin2struct	machine-learning-ex5/ex5/lib/jsonlab/varargin2struct.m	/^function opt=varargin2struct(varargin)$/;"	f
+varargin2struct	machine-learning-ex6/ex6/lib/jsonlab/varargin2struct.m	/^function opt=varargin2struct(varargin)$/;"	f
+varargin2struct	machine-learning-ex7/ex7/lib/jsonlab/varargin2struct.m	/^function opt=varargin2struct(varargin)$/;"	f
+varargin2struct	machine-learning-ex8/ex8/lib/jsonlab/varargin2struct.m	/^function opt=varargin2struct(varargin)$/;"	f
+visualizeBoundary	machine-learning-ex6/ex6/visualizeBoundary.m	/^function visualizeBoundary(X, y, model, varargin)$/;"	f
+visualizeBoundaryLinear	machine-learning-ex6/ex6/visualizeBoundaryLinear.m	/^function visualizeBoundaryLinear(X, y, model)$/;"	f
+visualizeFit	machine-learning-ex8/ex8/visualizeFit.m	/^function visualizeFit(X, mu, sigma2)$/;"	f
+vowelinstem	machine-learning-ex6/ex6/porterStemmer.m	/^function vis = vowelinstem(b, k0)$/;"	f
+warmUpExercise	machine-learning-ex1/ex1/warmUpExercise.m	/^function A = warmUpExercise()$/;"	f
